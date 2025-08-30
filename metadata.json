@@ -1,0 +1,5 @@
+{
+  "name": "Menu Hero Shot Generator",
+  "description": "Upload an image of a menu item, describe the ideal photo, and let AI generate a photorealistic hero shot for your menu.",
+  "requestFramePermissions": []
+}
